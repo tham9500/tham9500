@@ -14,13 +14,15 @@
    ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
    ![Flutter](https://img.shields.io/badge/PHP-2800A4.svg?style=for-the-badge&logo=PHP&logoColor=white)
+   ![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=Node.js&logoColor=white)
 
  - Framework <br>
  
    ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
    ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-FF5722.svg?style=for-the-badge&logo=CodeIgniter&logoColor=white)
    ![React](https://img.shields.io/badge/React-0499CD.svg?style=for-the-badge&logo=React&logoColor=white)
-   ![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=Node.js&logoColor=white)
+   ![Express](https://img.shields.io/badge/Express-711E1E.svg?style=for-the-badge&logo=Express&logoColor=white)
+   
  
 
  - Database <br>
