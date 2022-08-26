@@ -2,7 +2,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
  - 🔭 I’m working on [Vansales Application Co., Ltd.](https://vansalesapp.com/)
- - ❤️ I'm currently Fullstack Developer and love develop mobile application micro UI.
+ - ❤️ I'm currently Fullstack Developer and love develop mobile application micro UI.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  - 🌱 I'm doing Codeigniter , PHP, React JS, Flutter and Express
  - 💡 Next step of learning I want to know more about Image Processing with Flutter
  - 🎓 Graduate Computer Engineering RMUTT 2022 
