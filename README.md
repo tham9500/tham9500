@@ -43,13 +43,11 @@
    ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)
    ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF.svg?style=for-the-badge&logo=Zoom&logoColor=white)
    ![Figma](https://img.shields.io/badge/Figma-FF6C37.svg?style=for-the-badge&logo=Figma&logoColor=white)
- 
- - Tool <br>
-
    ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=ffffff)
    ![Github](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=ffffff)
    ![GitLab](https://img.shields.io/badge/GitLab-DE7900.svg?style=for-the-badge&logo=GitLab&logoColor=ffffff)
  
+
  
 <!--
 **tham9500/tham9500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
