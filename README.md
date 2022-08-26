@@ -34,11 +34,12 @@
  
  ![DBeaver](https://img.shields.io/badge/DBeaver-00FF00.svg?style=for-the-badge&logo=DBeaver&logoColor=blue)
  ![VsCode](https://img.shields.io/badge/VisualStudioCode-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
- ![Postman](https://img.shields.io/badge/Postman-FF6C37?&style=flat&logo=postman&logoColor=ffffff)&nbsp;
- ![Slack](https://img.shields.io/badge/Slack-4A154B?&style=flat&logo=slack&logoColor=ffffff)&nbsp;
- ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?&style=flat&logo=zoom&logoColor=ffffff)&nbsp;
- ![Figma](https://img.shields.io/badge/Figma-2D8CFF?&style=flat&logo=Figma&logoColor=ffffff)&nbsp;
-
+ ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+ ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)
+ ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF.svg?style=for-the-badge&logo=Zoom&logoColor=white)
+ ![Figma](https://img.shields.io/badge/Figma-FF6C37.svg?style=for-the-badge&logo=Figma&logoColor=white)
+ 
+ 
 <!--
 **tham9500/tham9500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
