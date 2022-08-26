@@ -1,9 +1,10 @@
 ### Hi there, I'm Tham Saleerueng <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
  - 🔭 I’m working on [Vansales Application Co., Ltd.](https://vansalesapp.com/)
  - ❤️ I'm currently Fullstack Developer and love develop mobile application micro UI.
  - 🌱 I'm doing Codeigniter , PHP, React JS, Flutter and Express
  - 💡 Next step of learning I want to know more about Image Processing with Flutter
- - 🎓 Graduate Computer Engineering RMUTT 2022 [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/sciencepal) and Tintin comics
+ - 🎓 Graduate Computer Engineering RMUTT 2022 
  - 💬 Something I don't know today, That doesn't mean I don't know tomorrow.
  - 📫 How to reach me: 070tham@gmail.com
  
