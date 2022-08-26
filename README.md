@@ -19,6 +19,8 @@
  
    ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
    ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-FF5722.svg?style=for-the-badge&logo=CodeIgniter&logoColor=white)
+   ![React](https://img.shields.io/badge/React-0499CD .svg?style=for-the-badge&logo=React&logoColor=white)
+   ![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=Node.js&logoColor=white)
  
 
  - Database <br>
