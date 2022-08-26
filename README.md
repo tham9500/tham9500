@@ -39,7 +39,7 @@
  
  - Tool <br>
  
-   ![DBeaver](https://img.shields.io/badge/DBeaver-00FF00.svg?style=for-the-badge&logo=DBeaver&logoColor=blue)
+   ![DBeaver](https://img.shields.io/badge/DBeaver-00FF00.svg?style=for-the-badge&logo=DBeaver&logoColor=white)
    ![VsCode](https://img.shields.io/badge/VisualStudioCode-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
    ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
    ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)
