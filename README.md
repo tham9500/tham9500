@@ -31,9 +31,13 @@
  ![Docker](https://img.shields.io/badge/Docker-3C81BF.svg?style=for-the-badge&logo=Docker&logoColor=blue)
  
  - Tool <br>
- ![DBeaver](https://img.shields.io/badge/DBeaver-00FF00.svg?style=for-the-badge&logo=Docker&logoColor=blue)
  
- 
+ ![DBeaver](https://img.shields.io/badge/DBeaver-00FF00.svg?style=for-the-badge&logo=DBeaver&logoColor=blue)
+ ![VsCode](https://img.shields.io/badge/VisualStudioCode-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+ ![Postman](https://img.shields.io/badge/Postman-FF6C37?&style=flat&logo=postman&logoColor=ffffff)&nbsp;
+ ![Slack](https://img.shields.io/badge/Slack-4A154B?&style=flat&logo=slack&logoColor=ffffff)&nbsp;
+ ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?&style=flat&logo=zoom&logoColor=ffffff)&nbsp;
+ ![Figma](https://img.shields.io/badge/Figma-2D8CFF?&style=flat&logo=Figma&logoColor=ffffff)&nbsp;
 
 <!--
 **tham9500/tham9500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
