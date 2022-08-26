@@ -35,7 +35,7 @@
 
  - DevOps <br>
  
-   ![Docker](https://img.shields.io/badge/Docker-3C81BF.svg?style=for-the-badge&logo=Docker&logoColor=blue)
+   ![Docker](https://img.shields.io/badge/Docker-3C81BF.svg?style=for-the-badge&logo=Docker&logoColor=white)
  
  - Tool <br>
  
