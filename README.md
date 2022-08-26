@@ -20,6 +20,8 @@
  ### Database
 
  ![MySql](https://img.shields.io/badge/MySql-FFFFFF.svg?style=for-the-badge&logo=MySql&logoColor=blue)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-007500.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+ ![Postgresql](https://img.shields.io/badge/Postgresql-207E82.svg?style=for-the-badge&logo=Postgresql&logoColor=blue)
 
 
 <!--
