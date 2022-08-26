@@ -7,22 +7,33 @@
  - 💬 Something I don't know today, That doesn't mean I don't know tomorrow.
  - 📫 How to reach me: 070tham@gmail.com
  
- ### Programming Language
+### 🛠 &nbsp;Tech Stack
+
+ - Programming Language <br>
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Flutter](https://img.shields.io/badge/PHP-2800A4.svg?style=for-the-badge&logo=PHP&logoColor=white)
 
- ### Framework
+ - Framework <br>
  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
  ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-FF5722.svg?style=for-the-badge&logo=CodeIgniter&logoColor=white)
  
- ### Database
+
+ - Database <br>
 
  ![MySql](https://img.shields.io/badge/MySql-FFFFFF.svg?style=for-the-badge&logo=MySql&logoColor=blue)
  ![MongoDB](https://img.shields.io/badge/MongoDB-007500.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
- ![Postgresql](https://img.shields.io/badge/Postgresql-207E82.svg?style=for-the-badge&logo=Postgresql&logoColor=blue)
+ ![Postgresql](https://img.shields.io/badge/Postgresql-207E82.svg?style=for-the-badge&logo=Postgresql&logoColor=white)
 
+ - DevOps <br>
+ 
+ ![Docker](https://img.shields.io/badge/Docker-3C81BF.svg?style=for-the-badge&logo=Docker&logoColor=blue)
+ 
+ - Tool <br>
+ ![DBeaver](https://img.shields.io/badge/DBeaver-00FF00.svg?style=for-the-badge&logo=Docker&logoColor=blue)
+ 
+ 
 
 <!--
 **tham9500/tham9500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
