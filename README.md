@@ -6,7 +6,7 @@
  - 🌱 I'm doing Codeigniter , PHP, React JS, Flutter and Express
  - 💡 Next step of learning I want to know more about Image Processing with Flutter
  - 🎓 Graduate Computer Engineering RMUTT 2022 
- - 💬 Something I don't know today, That doesn't mean I don't know tomorrow.
+ - 💬 Continue to accumulate knowledge for future use.
  - 📫 How to reach me: 070tham@gmail.com
  
 ### 🛠 &nbsp;Tech Stack
