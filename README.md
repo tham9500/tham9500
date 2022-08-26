@@ -3,7 +3,7 @@
  - ❤️ I'm currently Fullstack Developer and love develop mobile application micro UI.
  - 🌱 I'm doing Codeigniter , PHP, React JS, Flutter and Express
  - 💡 Next step of learning I want to know more about Image Processing with Flutter
- - 🎓 Graduate Computer Engineering RMUTT 2022
+ - 🎓 Graduate Computer Engineering RMUTT 2022 [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/sciencepal) and Tintin comics
  - 💬 Something I don't know today, That doesn't mean I don't know tomorrow.
  - 📫 How to reach me: 070tham@gmail.com
  
