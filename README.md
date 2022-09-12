@@ -8,6 +8,7 @@
  - 🎓 Graduate Computer Engineering RMUTT 2022 
  - 💬 Continue to accumulate knowledge for future use.
  - 📫 How to reach me: 070tham@gmail.com
+ - 📫 Now I'm working in gitlab https://gitlab.com/tham9500
  
 ### 🛠 &nbsp;Tech Stack
 
