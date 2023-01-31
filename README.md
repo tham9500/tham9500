@@ -49,7 +49,7 @@
    ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=ffffff)
    ![Github](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=ffffff)
    ![GitLab](https://img.shields.io/badge/GitLab-DE7900.svg?style=for-the-badge&logo=GitLab&logoColor=ffffff)   
-   ![AndroidStudio](https://img.shields.io/badge/Android Studio-00FF70.svg?style=for-the-badge&logo=Android Studio&logoColor=white)
+   ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-00FF70.svg?style=for-the-badge&logo=AndroidStudio&logoColor=white)
    ![Xcode](https://img.shields.io/badge/Xcode-00AFFF.svg?style=for-the-badge&logo=Xcode&logoColor=white)
  
 
