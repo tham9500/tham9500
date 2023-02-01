@@ -74,7 +74,7 @@ JavaScript   01 hrs 8 mins/week   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <a href ="https://www.facebook.com/maccaniarosan.tham/"><img src="https://img.shields.io/badge/tham saleerueng-F7F7F7?logo=facebook"></a> &nbsp;
 <a href ="https://www.instagram.com/tham_saleerueng/"><img src="https://img.shields.io/badge/tham saleerueng-e4405f?logo=instagram&logoColor=f7f7f7"></a>&nbsp;
 <a href ="https://gitlab.com/tham9500"><img src="https://img.shields.io/badge/tham9500-184aa8?logo=gitlab&logoColor="></a> 
- <a href ="https://tham9500.github.io"><img src="https://img.shields.io/badge/tham9500-184aa8?logo=website&logoColor="></a> &nbsp;
+ <a href ="https://tham9500.github.io"><img src="https://img.shields.io/badge/Website-184aa8?logo=website&logoColor="></a> &nbsp;
 </p>
 
 
