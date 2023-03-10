@@ -69,6 +69,9 @@ JavaScript   01 hrs 8 mins/week   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 <!--END_SECTION:waka-->
 
+<!-- <! --cmd-k v or ctrl-k v	Open preview to the Side
+cmd-shift-v or ctrl-shift-v	Open preview-- > -->
+
 ### 💬 &nbsp;Connect Me
 <p>
 <a href ="https://www.facebook.com/maccaniarosan.tham/"><img src="https://img.shields.io/badge/tham saleerueng-F7F7F7?logo=facebook"></a> &nbsp;
