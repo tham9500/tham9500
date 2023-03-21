@@ -67,7 +67,7 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 <!-- https://github-readme-stats-ruby-one.vercel.app -->
 
 <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=tham9500&layout=compact&theme=monokai" />
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tham9500&layout=compact&theme=monokai) -->
+![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=tham9500&layout=compact&theme=monokai)
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai" />
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tham9500&show_icons=true&count_private=true&theme=onedark" />
 
