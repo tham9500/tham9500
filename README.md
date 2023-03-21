@@ -65,10 +65,10 @@
 <!-- <! --cmd-k v or ctrl-k v	Open preview to the Side
 cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tham9500&layout=compact)
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tham9500&theme=monokai)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tham9500&show_icons=true&theme=cobalt)
+![Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tham9500&theme=dracula)
 
 ### 💬 &nbsp;Connect Me
 <p>
@@ -78,5 +78,4 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 <a href ="https://www.linkedin.com/in/tham-saleerueng-47b96b239/"><img src="https://img.shields.io/badge/Tham Saleerueng-0a66c2?logo=linkedin&logoColor="></a>
  <a href ="https://tham9500.github.io"><img src="https://img.shields.io/badge/Website-184aa8?logo=website&logoColor="></a> &nbsp;
 </p>
-
 
