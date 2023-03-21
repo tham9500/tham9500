@@ -1,4 +1,5 @@
 ### Hi there, I'm Tham Saleerueng <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
  - 🔭 I’m working on [Vansales Application Co., Ltd.](https://vansalesapp.com/)
@@ -74,7 +75,7 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tham9500&theme=2077)
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=2077)
 
-
+![](https://komarev.com/ghpvc/?username=tham9500)
 
 ### 💬 &nbsp;Connect Me
 <p>
@@ -84,4 +85,6 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 <a href ="https://www.linkedin.com/in/tham-saleerueng-47b96b239/"><img src="https://img.shields.io/badge/Tham Saleerueng-0a66c2?logo=linkedin&logoColor="></a>
  <a href ="https://tham9500.github.io"><img src="https://img.shields.io/badge/Website-184aa8?logo=website&logoColor="></a> &nbsp;
 </p>
+
+
 
