@@ -77,8 +77,11 @@ Markdown     01 hrs 50 mins/week  🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tham9500&layout=compact)
+
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai)
+
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tham9500&theme=monokai)
+
 ![Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tham9500&theme=monokai)
 
 ### 💬 &nbsp;Connect Me
