@@ -65,14 +65,15 @@
 <!-- <! --cmd-k v or ctrl-k v	Open preview to the Side
 cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tham9500&layout=compact&theme=monokai)
 
-![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tham9500&layout=compact&theme=monokai" />
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tham9500&layout=compact&theme=monokai) -->
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai" />
+<!-- ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai) -->
 
 
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tham9500&show_icons=true&count_private=true&theme=onedark" />
 
-<a href="https://github.com/tham9500">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tham9500&show_icons=true&count_private=true&theme=onedark" />
 
 ### 💬 &nbsp;Connect Me
 <p>
