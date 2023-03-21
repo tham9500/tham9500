@@ -70,7 +70,7 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tham9500&theme=monokai)
-<a href="https://github.com/natgeo-wong">
+<a href="https://github.com/tham9500">
    
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/username=tham9500&theme=onedark&hide=jupyter%20notebook&layout=compact" />
   </a>
