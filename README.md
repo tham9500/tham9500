@@ -9,6 +9,7 @@
  - 💬 Continue to accumulate knowledge for future use.
  - 📫 How to reach me: 070tham@gmail.com
  - 📫 Now I'm working in gitlab https://gitlab.com/tham9500
+ - ![](https://img.shields.io/badge/Apple-MacBook_Pro_14_2023-999999?style=flat-square&logo=apple&logoColor=white)
  
 ### 🛠 &nbsp;Tech Stack
 
