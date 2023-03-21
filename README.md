@@ -71,8 +71,8 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tham9500&theme=monokai)
 <a href="https://github.com/natgeo-wong">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbisits&theme=onedark&hide=jupyter%20notebook&layout=compact" />
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jbisits&theme=onedark&hide=jupyter%20notebook&layout=compact" />
+   
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/username=tham9500&theme=onedark&hide=jupyter%20notebook&layout=compact" />
   </a>
 <a href="https://github.com/tham9500">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tham9500&show_icons=true&count_private=true&theme=onedark" />
