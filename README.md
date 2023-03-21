@@ -65,12 +65,12 @@
 <!-- <! --cmd-k v or ctrl-k v	Open preview to the Side
 cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tham9500&layout=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tham9500&layout=compact)
 
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tham9500&theme=monokai)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tham9500&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tham9500&show_icons=true&theme=cobalt)
 
 ### 💬 &nbsp;Connect Me
 <p>
