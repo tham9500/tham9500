@@ -65,7 +65,7 @@
 <!-- <! --cmd-k v or ctrl-k v	Open preview to the Side
 cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tham9500&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tham9500&layout=radical)
 
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai)
 
