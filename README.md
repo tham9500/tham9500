@@ -62,17 +62,6 @@
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 
 
-#### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
-<!--START_SECTION:waka-->
-```text
-
-Flutter      45 hrs 06 mins/week  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜   94.63 %
-PHP          02 hrs 49 mins/week  🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.12 %
-JavaScript   01 hrs 8 mins/week   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.74 %
-Markdown     01 hrs 50 mins/week  🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.88 %
-```
-<!--END_SECTION:waka-->
-
 <!-- <! --cmd-k v or ctrl-k v	Open preview to the Side
 cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 
