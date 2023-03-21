@@ -69,7 +69,7 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tham9500&theme=monokai)
+
 
 <a href="https://github.com/tham9500">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tham9500&show_icons=true&count_private=true&theme=onedark" />
