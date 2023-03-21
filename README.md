@@ -70,7 +70,7 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 
 ![Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tham9500&theme=2077)
 ![Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tham9500&theme=2077)
-![Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=2077&utcOffset=8)
+![Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=2077&utcOffset=7)
 ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tham9500&theme=2077)
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=2077)
 
