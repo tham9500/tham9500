@@ -12,6 +12,9 @@
  - ![](https://img.shields.io/badge/Apple-MacBook_Pro_14_2023-999999?style=flat-square&logo=apple&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tham9500&layout=compact)
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tham9500&theme=monokai)
+![Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tham9500&theme=monokai)
  
 ### 🛠 &nbsp;Tech Stack
 
