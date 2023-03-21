@@ -10,6 +10,7 @@
  - 📫 How to reach me: 070tham@gmail.com
  - 📫 Now I'm working in gitlab https://gitlab.com/tham9500
  - ![](https://img.shields.io/badge/Apple-MacBook_Pro_14_2023-999999?style=flat-square&logo=apple&logoColor=white)
+ - <a href="https://github.com/tham9500"><img src="https://img.shields.io/badge/tham9500-181717?style=flat&logo=github&logoColor=ffffff"></a>
  
 ### 🛠 &nbsp;Tech Stack
 
