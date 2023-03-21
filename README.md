@@ -70,13 +70,9 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tham9500&theme=monokai)
-<a href="https://github.com/tham9500">
-   
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/username=tham9500&theme=onedark&hide=jupyter%20notebook&layout=compact" />
-  </a>
+
 <a href="https://github.com/tham9500">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tham9500&show_icons=true&count_private=true&theme=onedark" />
-</a>
 
 ### 💬 &nbsp;Connect Me
 <p>
@@ -86,5 +82,4 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 <a href ="https://www.linkedin.com/in/tham-saleerueng-47b96b239/"><img src="https://img.shields.io/badge/Tham Saleerueng-0a66c2?logo=linkedin&logoColor="></a>
  <a href ="https://tham9500.github.io"><img src="https://img.shields.io/badge/Website-184aa8?logo=website&logoColor="></a> &nbsp;
 </p>
-
 
