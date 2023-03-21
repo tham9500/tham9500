@@ -81,7 +81,6 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tham9500&theme=monokai)
-
 ![Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tham9500&theme=monokai)
 
 ### 💬 &nbsp;Connect Me
