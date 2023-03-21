@@ -9,12 +9,7 @@
  - 💬 Continue to accumulate knowledge for future use.
  - 📫 How to reach me: 070tham@gmail.com
  - 📫 Now I'm working in gitlab https://gitlab.com/tham9500
- - ![](https://img.shields.io/badge/Apple-MacBook_Pro_14_2023-999999?style=flat-square&logo=apple&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tham9500&layout=compact)
-![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tham9500&theme=monokai)
-![Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tham9500&theme=monokai)
  
 ### 🛠 &nbsp;Tech Stack
 
@@ -69,6 +64,7 @@
 #### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
 <!--START_SECTION:waka-->
 ```text
+
 Flutter      45 hrs 06 mins/week  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜   94.63 %
 PHP          02 hrs 49 mins/week  🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.12 %
 JavaScript   01 hrs 8 mins/week   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.74 %
@@ -78,6 +74,11 @@ Markdown     01 hrs 50 mins/week  🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!-- <! --cmd-k v or ctrl-k v	Open preview to the Side
 cmd-shift-v or ctrl-shift-v	Open preview-- > -->
+![](https://img.shields.io/badge/Apple-MacBook_Pro_14_2023-999999?style=flat-square&logo=apple&logoColor=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tham9500&layout=compact)
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tham9500&theme=monokai)
+![Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tham9500&theme=monokai)
 
 ### 💬 &nbsp;Connect Me
 <p>
