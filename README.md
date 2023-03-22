@@ -76,7 +76,8 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=2077)
 
 ![](https://komarev.com/ghpvc/?username=tham9500&style=flat-square)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ### 💬 &nbsp;Connect Me
 <p>
 <a href ="https://www.facebook.com/maccaniarosan.tham/"><img src="https://img.shields.io/badge/tham saleerueng-F7F7F7?logo=facebook"></a> &nbsp;
