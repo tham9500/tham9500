@@ -3,7 +3,7 @@ name: GitHub Profile Summary Cards
 on:
   workflow_dispatch:
   schedule:
-    - cron: "* */4 1 * *"
+    - cron: "0 6 1 * *"
 
 jobs:
   build:
