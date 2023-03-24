@@ -16,7 +16,7 @@ jobs:
         env:  
           GITHUB_TOKEN: ${{ secrets.THAM9500 }}
         with:
-          USERNAME: tham9500
+          USERNAME: ${{ github.repository_owner }}
           COMMIT_MESSAGE: git update profile
 
 # Credit: https://github.com/marketplace/actions/github-profile-summary-cards
