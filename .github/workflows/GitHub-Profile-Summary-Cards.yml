@@ -17,5 +17,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.THAM9500 }}
         with:
           USERNAME: tham9500
+          COMMIT_MESSAGE: git update profile
 
 # Credit: https://github.com/marketplace/actions/github-profile-summary-cards
