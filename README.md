@@ -11,7 +11,7 @@
  - 📫 How to reach me: 070tham@gmail.com
  - 📫 How to follwing me: https://tham9500.github.io
  - 📫 Now I'm working in gitlab https://gitlab.com/tham9500
- - ![](https://img.shields.io/badge/Apple-MacBook_Pro_14_2023-999999?style=flat-square&logo=apple&logoColor=white)
+ - ![](https://img.shields.io/badge/Apple-MacBook_Pro_M2_Pro_14_2023-999999?style=flat-square&logo=apple&logoColor=white)
 
  
 ### 🛠 &nbsp;Tech Stack
