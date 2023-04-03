@@ -80,10 +80,10 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 March 2023 - To: 02 April 2023
+From: 27 March 2023 - To: 03 April 2023
 
-Dart                         ███████████████████████░░   92.37 %
-Other                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Dart                         ██████████████████████▓░░   90.52 %
+Other                        █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
 ```
 
 <!--END_SECTION:waka-->
