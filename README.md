@@ -1,5 +1,5 @@
 ### Hi there, I'm Tham Saleerueng <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="auto">
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="auto">
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
  - 🔭 I’m working on [Vansales Application Co., Ltd.](https://vansalesapp.com/)
