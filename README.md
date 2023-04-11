@@ -58,7 +58,7 @@
    ![Xcode](https://img.shields.io/badge/Xcode-00AFFF.svg?style=for-the-badge&logo=Xcode&logoColor=white)
  
 
- 
+ ![](https://komarev.com/ghpvc/?username=tham9500&style=for-the-badge&label=VISITOR)
 <!--
 **tham9500/tham9500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
@@ -77,7 +77,7 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tham9500&theme=2077)
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=2077)
 
-![](https://komarev.com/ghpvc/?username=tham9500&style=for-the-badge&label=VISITOR)
+
 <!--START_SECTION:waka-->
 
 ```text
