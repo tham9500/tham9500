@@ -77,7 +77,7 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tham9500&theme=2077)
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=2077)
 
-![](https://komarev.com/ghpvc/?username=tham9500&style=flat-square)
+![](https://komarev.com/ghpvc/?username=tham9500&style=for-the-badge&label=VISITOR)
 <!--START_SECTION:waka-->
 
 ```text
