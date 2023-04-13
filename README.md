@@ -23,6 +23,7 @@
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
    ![Flutter](https://img.shields.io/badge/PHP-2800A4.svg?style=for-the-badge&logo=PHP&logoColor=white)
    ![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=Node.js&logoColor=white)
+   ![C++](https://img.shields.io/badge/C++-%gray.svg?style=for-the-badge&logo=c&logoColor=white)
 
  - Framework <br>
  
@@ -56,6 +57,7 @@
    ![GitLab](https://img.shields.io/badge/GitLab-DE7900.svg?style=for-the-badge&logo=GitLab&logoColor=ffffff)
    ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-00FF70.svg?style=for-the-badge&logo=AndroidStudio&logoColor=white)
    ![Xcode](https://img.shields.io/badge/Xcode-00AFFF.svg?style=for-the-badge&logo=Xcode&logoColor=white)
+   ![Arduino](https://img.shields.io/badge/Arduino-00FFFF.svg?style=for-the-badge&logo=Arduino&logoColor=Black)
  
 
  
