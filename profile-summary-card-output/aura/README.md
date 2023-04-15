@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/tham9500/tham9500/main/profile-summary-card-output/aura/4-productive-time.svg)
-```
-
-    
