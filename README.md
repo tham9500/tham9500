@@ -76,11 +76,11 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 
 ### 📝 STATS 
 
-![Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tham9500&theme=2077)
-![Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tham9500&theme=2077)
-![Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=2077&utcOffset=7)
-![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tham9500&theme=2077)
-![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=2077)
+![Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tham9500&theme=github_dark)
+<!-- ![Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tham9500&theme=2077)
+![Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=2077&utcOffset=7) -->
+![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tham9500&theme=github_dark)
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=github_dark)
 
 
 <!--START_SECTION:waka-->
@@ -106,6 +106,7 @@ Markdown                     ▒░░░░░░░░░░░░░░░░
 <a href ="https://gitlab.com/tham9500"><img src="https://img.shields.io/badge/tham9500-184aa8?logo=gitlab&logoColor="></a> 
 <a href ="https://www.linkedin.com/in/tham-saleerueng-47b96b239/"><img src="https://img.shields.io/badge/Tham Saleerueng-0a66c2?logo=linkedin&logoColor="></a>
  <a href ="https://tham9500.github.io"><img src="https://img.shields.io/badge/Website-184aa8?logo=website&logoColor="></a> &nbsp;
+ 
 </p>
 
 
