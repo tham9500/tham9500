@@ -111,6 +111,9 @@ Other                        ▓░░░░░░░░░░░░░░░░
 <a href ="https://www.linkedin.com/in/tham-saleerueng-47b96b239/"><img src="https://img.shields.io/badge/Tham Saleerueng-0a66c2?logo=linkedin&logoColor="></a>
  <a href ="https://tham9500.github.io"><img src="https://img.shields.io/badge/Website-184aa8?logo=website&logoColor="></a> &nbsp;
  
+### 💬 &nbsp;Additional
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z0KOEBF)
+
 </p>
 
 
