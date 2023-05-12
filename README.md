@@ -77,17 +77,16 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 
 ### 📝 STATS 
 
-<!-- ![Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tham9500&theme=github_dark) -->
-<!-- ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tham9500&theme=github_dark) -->
+![Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tham9500&theme=github_dark)
+![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tham9500&theme=github_dark)
 
-<!-- ![Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tham9500&theme=github_dark)
-![Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=github_dark&utcOffset=7) -->
+<!-- ![Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tham9500&theme=github_dark) -->
+<!-- ![Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=github_dark&utcOffset=7)  -->
 
-<!-- ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=github_dark) -->
-![tham9500's Stats](https://github-readme-stats.vercel.app/api?username=tham9500&theme=monokai&show_icons=true&hide_border=false&count_private=true)
-![tham9500's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tham9500&theme=monokai&hide_border=false)
-<!-- ![tham9500's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tham9500&theme=monokai&show_icons=true&hide_border=false&layout=compact) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tham9500&layout=donut&theme=radical)] -->
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=github_dark)
+<!-- ![tham9500's Stats](https://github-readme-stats.vercel.app/api?username=tham9500&theme=monokai&show_icons=true&hide_border=false&count_private=true) -->
+<!-- ![tham9500's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tham9500&theme=monokai&hide_border=false) -->
+
 
 
 
