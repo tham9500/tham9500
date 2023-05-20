@@ -95,9 +95,9 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 May 2023 - To: 19 May 2023
+From: 13 May 2023 - To: 20 May 2023
 
-Dart                         ████████████████████████▒   97.38 %
+Dart                         ████████████████████████▒   97.41 %
 Groovy                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 YAML                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 Properties                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
