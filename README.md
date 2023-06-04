@@ -5,7 +5,7 @@
 <a href="https://ko-fi.com/Z8Z0KOEBF"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
  - 🔭 I’m working on [Freewill FX Co., Ltd](http://www.freewillfx.com/)
  - 🔭 I’m worked on [Vansales Application Co., Ltd.](https://vansalesapp.com/)
- - ❤️ I'm currently Fullstack Developer and love develop mobile application micro UI.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ - ❤️ I'm currently develop mobile application micro UI.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  - 🌱 I'm doing Codeigniter , PHP, React JS, Flutter and Express
  - 💡 Next step of learning I want to know more about Docker
  - 🎓 Graduate Computer Engineering RMUTT 2022 
