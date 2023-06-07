@@ -87,7 +87,15 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 30 May 2023 - To: 06 June 2023
 
+Dart                    ████████████████████████▒   97.61 %
+Other                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+XML                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+YAML                    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JSON                    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
 
 <!--END_SECTION:waka-->
 
