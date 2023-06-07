@@ -69,11 +69,11 @@
 
 <!-- <! --cmd-k v or ctrl-k v	Open preview to the Side
 cmd-shift-v or ctrl-shift-v	Open preview-- > -->
-<!-- ![Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tham9500&theme=dracula)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tham9500&show_icons=true&theme=cobalt)
-![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai) -->
+
+<!-- ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai) -->
 
 ### 📝 STATS
+
 
 <!-- ![Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tham9500&theme=github_dark)
 ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tham9500&theme=github_dark) -->
@@ -81,9 +81,9 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 <!-- ![Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tham9500&theme=github_dark) -->
 <!-- ![Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=github_dark&utcOffset=7)  -->
 
-<!-- ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=github_dark) -->
-<!-- ![tham9500's Stats](https://github-readme-stats.vercel.app/api?username=tham9500&theme=monokai&show_icons=true&hide_border=false&count_private=true) -->
-<!-- ![tham9500's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tham9500&theme=monokai&hide_border=false) -->
+![tham9500's Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tham9500&theme=monokai)
+![tham9500's Stats](https://github-readme-stats.vercel.app/api?username=tham9500&theme=monokai&show_icons=true&hide_border=false&count_private=true)
+![tham9500's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tham9500&theme=monokai&hide_border=false)
 
 <!--START_SECTION:waka-->
 
