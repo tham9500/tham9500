@@ -74,30 +74,17 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 
 ### 📝 STATS
 
-
 <!-- ![Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tham9500&theme=github_dark)
 ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tham9500&theme=github_dark) -->
 
 <!-- ![Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tham9500&theme=github_dark) -->
 <!-- ![Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=github_dark&utcOffset=7)  -->
 
-<!-- ![tham9500's Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tham9500&theme=monokai) -->
+![tham9500's Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tham9500&theme=monokai)
+
 ![tham9500's Stats](https://github-readme-stats.vercel.app/api?username=tham9500&theme=monokai&show_icons=true&hide_border=false&count_private=true)
-![tham9500's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tham9500&theme=monokai&hide_border=false)
 
-<!--START_SECTION:waka-->
 
-```txt
-From: 30 May 2023 - To: 06 June 2023
-
-Dart                    ████████████████████████▒   97.61 %
-Other                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-XML                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-YAML                    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-JSON                    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
-<!--END_SECTION:waka-->
 
 ### ![](https://komarev.com/ghpvc/?username=tham9500&style=for-the-badge&label=VISITOR)
 
