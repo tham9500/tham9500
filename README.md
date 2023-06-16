@@ -87,6 +87,9 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 
 ### ![](https://komarev.com/ghpvc/?username=tham9500&style=for-the-badge&label=VISITOR)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 💬 &nbsp;Connect Me
 
 <p>
