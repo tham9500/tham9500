@@ -70,7 +70,7 @@
 <!-- <! --cmd-k v or ctrl-k v	Open preview to the Side
 cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 
-<!-- ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai) -->
+
 
 ### 📝 STATS
 
@@ -79,10 +79,10 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 
 <!-- ![Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tham9500&theme=github_dark) -->
 
-<!-- ![Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=github_dark&utcOffset=7)  -->
+<!-- ![Time](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tham9500&layout=donut&theme=monokai&hide_border=true)](https://github.com/tham9500/github-readme-stats)
-
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai)
 <!-- ![tham9500's Stats](https://github-readme-stats.vercel.app/api?username=tham9500&theme=monokai&show_icons=true&hide_border=true&count_private=true) -->
 
 ### ![](https://komarev.com/ghpvc/?username=tham9500&style=for-the-badge&label=VISITOR)
