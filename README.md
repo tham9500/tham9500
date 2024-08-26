@@ -90,7 +90,7 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 March 2023 - To: 24 August 2024
+From: 20 March 2023 - To: 25 August 2024
 
 Total Time: 990 hrs 21 mins
 
