@@ -92,12 +92,12 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 March 2023 - To: 16 July 2025
+From: 20 March 2023 - To: 17 July 2025
 
-Total Time: 1,533 hrs 25 mins
+Total Time: 1,535 hrs 14 mins
 
-Dart              1,296 hrs 29 mins🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜   84.55 %
-Other             70 hrs 30 mins  🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.60 %
+Dart              1,298 hrs 18 mins🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜   84.57 %
+Other             70 hrs 31 mins  🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.59 %
 YAML              40 hrs 22 mins  🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.63 %
 HTTP Request      27 hrs 55 mins  🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.82 %
 JSON              17 hrs 8 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.12 %
