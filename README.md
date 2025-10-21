@@ -56,6 +56,7 @@
 
   ![Docker](https://img.shields.io/badge/Docker-3C81BF.svg?style=for-the-badge&logo=Docker&logoColor=white)
   ![MQTT](https://img.shields.io/badge/MQTT-3CA1AA.svg?style=for-the-badge&logo=MQTT&logoColor=white)
+  ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
 
 - Tool <br>
 
@@ -71,6 +72,8 @@
   ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-00AF70.svg?style=for-the-badge&logo=AndroidStudio&logoColor=000000)
   ![Xcode](https://img.shields.io/badge/Xcode-00AFFF.svg?style=for-the-badge&logo=Xcode&logoColor=white)
   ![Arduino](https://img.shields.io/badge/Arduino-00FFFF.svg?style=for-the-badge&logo=Arduino&logoColor=Black)
+  ![Google Meet](https://img.shields.io/badge/Google_Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white)
+  ![Google Chat](https://img.shields.io/badge/Google_Chat-00AC47?style=for-the-badge&logo=googlechat&logoColor=white)
 
 <!--
 **tham9500/tham9500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
