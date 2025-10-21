@@ -29,6 +29,8 @@
   ![Flutter](https://img.shields.io/badge/PHP-2800A4.svg?style=for-the-badge&logo=PHP&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=Node.js&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-AA97F0.svg?style=for-the-badge&logo=cplusplus&logoColor=0012A5)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 - Framework & Library <br>
 
@@ -36,12 +38,19 @@
   ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-FF5722.svg?style=for-the-badge&logo=CodeIgniter&logoColor=white)
   ![React](https://img.shields.io/badge/React-0499CD.svg?style=for-the-badge&logo=React&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-711E1E.svg?style=for-the-badge&logo=Express&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Next.ts](https://img.shields.io/badge/Next.js%20+%20TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+
 
 - Database <br>
 
   ![MySql](https://img.shields.io/badge/MySql-FFFFFF.svg?style=for-the-badge&logo=MySql&logoColor=blue)
   ![MongoDB](https://img.shields.io/badge/MongoDB-007500.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
   ![Postgresql](https://img.shields.io/badge/Postgresql-207E82.svg?style=for-the-badge&logo=Postgresql&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-orange.svg?style=for-the-badge&logo=Firebase&logoColor=white)
+  ![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=googlecloud&logoColor=black)
+
 
 - DevOps <br>
 
