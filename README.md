@@ -31,7 +31,6 @@
   ![C++](https://img.shields.io/badge/C++-AA97F0.svg?style=for-the-badge&logo=cplusplus&logoColor=0012A5)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-
 - Framework & Library <br>
 
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -41,8 +40,6 @@
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![Next.ts](https://img.shields.io/badge/Next.js%20+%20TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-
-
 - Database <br>
 
   ![MySql](https://img.shields.io/badge/MySql-FFFFFF.svg?style=for-the-badge&logo=MySql&logoColor=blue)
@@ -51,12 +48,10 @@
   ![Firebase](https://img.shields.io/badge/Firebase-orange.svg?style=for-the-badge&logo=Firebase&logoColor=white)
   ![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=googlecloud&logoColor=black)
 
-
 - DevOps <br>
 
   ![Docker](https://img.shields.io/badge/Docker-3C81BF.svg?style=for-the-badge&logo=Docker&logoColor=white)
   ![MQTT](https://img.shields.io/badge/MQTT-3CA1AA.svg?style=for-the-badge&logo=MQTT&logoColor=white)
-  ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
 
 - Tool <br>
 
@@ -84,8 +79,6 @@
 <!-- <! --cmd-k v or ctrl-k v	Open preview to the Side
 cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 
-
-
 ### 📝 STATS
 
 <!-- ![Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tham9500&theme=github_dark)
@@ -97,6 +90,7 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tham9500&layout=donut&theme=monokai&hide_border=true)](https://github.com/tham9500/github-readme-stats)
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai)
+
 <!-- ![tham9500's Stats](https://github-readme-stats.vercel.app/api?username=tham9500&theme=monokai&show_icons=true&hide_border=true&count_private=true) -->
 
 ### ![](https://komarev.com/ghpvc/?username=tham9500&style=for-the-badge&label=VISITOR)
