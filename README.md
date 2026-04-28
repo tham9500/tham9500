@@ -103,12 +103,12 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 March 2023 - To: 27 April 2026
+From: 20 March 2023 - To: 28 April 2026
 
-Total Time: 2,971 hrs 18 mins
+Total Time: 2,973 hrs 47 mins
 
-Dart                   1,564 hrs 43 mins     🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   52.66 %
-Other                  1,101 hrs 17 mins     🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.06 %
+Dart                   1,566 hrs 53 mins     🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   52.69 %
+Other                  1,101 hrs 17 mins     🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.03 %
 Java                   74 hrs 18 mins        🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.50 %
 YAML                   49 hrs 55 mins        🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.68 %
 XML                    32 hrs 37 mins        🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.10 %
