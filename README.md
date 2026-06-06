@@ -101,7 +101,6 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 
 <!-- ![Time](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tham9500&layout=donut&theme=monokai&hide_border=true)](https://github.com/tham9500/github-readme-stats)
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tham9500&theme=monokai)
 <!-- ![tham9500's Stats](https://github-readme-stats.vercel.app/api?username=tham9500&theme=monokai&show_icons=true&hide_border=true&count_private=true) -->
 
