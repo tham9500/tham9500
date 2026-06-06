@@ -11,7 +11,8 @@
 - ❤️ I'm currently develop mobile application micro UI.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I'm doing Codeigniter , PHP, React JS, Flutter and Express
 - 💡 Next step of learning I want to know more about Docker
-- 🎓 Graduate Computer Engineering RMUTT 2022
+- 🎓 Graduate Computer Engineering RMUTT 2020
+- 🎓 Graduate Data Engineering KMUTNB 2022
 - 💬 Use existing experience to develop capabilities to support new technologies in the future.
 - 📫 How to reach me: 070tham@gmail.com
 - 📫 How to follwing me: https://tham9500.github.io
