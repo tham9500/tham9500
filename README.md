@@ -9,8 +9,8 @@
 - 🔭 I’m working on [Freewill FX Co., Ltd](http://www.freewillfx.com/)
 - 🔭 I’m worked on [Vansales Application Co., Ltd.](https://vansalesapp.com/)
 - ❤️ I'm currently develop mobile application micro UI.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I'm doing Codeigniter , PHP, React JS, Flutter and Express
-- 💡 Next step of learning I want to know more about Docker
+- 🌱 I'm doing Flutter, Go, React, Next.js, PHP/CodeIgniter and Express
+- 💡 Currently exploring embedded firmware (RISC-V) and AI-assisted development
 - 🎓 Graduate Computer Engineering RMUTT 2020
 - 🎓 Graduate Data Engineering KMUTNB 2022
 - 💬 Use existing experience to develop capabilities to support new technologies in the future.
@@ -81,6 +81,18 @@
   ![Arduino](https://img.shields.io/badge/Arduino-00FFFF.svg?style=for-the-badge&logo=Arduino&logoColor=Black)
   ![Google Meet](https://img.shields.io/badge/Google_Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white)
   ![Google Chat](https://img.shields.io/badge/Google_Chat-00AC47?style=for-the-badge&logo=googlechat&logoColor=white)
+
+
+- AI & ML <br>
+
+  ![Claude](https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
+  ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-1F2328.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
+  ![Codex](https://img.shields.io/badge/Codex-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+  ![Ollama](https://img.shields.io/badge/Ollama-000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
+  ![NotebookLM](https://img.shields.io/badge/NotebookLM-1A73E8.svg?style=for-the-badge&logo=google&logoColor=white)
+  ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Google ML Kit](https://img.shields.io/badge/Google_ML_Kit-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+  ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 <!--
 **tham9500/tham9500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
