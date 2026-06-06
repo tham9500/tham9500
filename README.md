@@ -30,6 +30,9 @@
   ![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=Node.js&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-AA97F0.svg?style=for-the-badge&logo=cplusplus&logoColor=0012A5)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
 - Framework & Library <br>
@@ -40,6 +43,8 @@
   ![Express](https://img.shields.io/badge/Express-711E1E.svg?style=for-the-badge&logo=Express&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![Next.ts](https://img.shields.io/badge/Next.js%20+%20TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+  ![GetX](https://img.shields.io/badge/GetX-8A2BE2.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 
 
@@ -56,6 +61,8 @@
 
   ![Docker](https://img.shields.io/badge/Docker-3C81BF.svg?style=for-the-badge&logo=Docker&logoColor=white)
   ![MQTT](https://img.shields.io/badge/MQTT-3CA1AA.svg?style=for-the-badge&logo=MQTT&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 - Tool <br>
 
